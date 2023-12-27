@@ -1,0 +1,17 @@
+User ID :	mngr425501
+Password :	UjyhEzY
+
+textbox username
+textbox password
+forfot password Link
+button
+
+
+correct un correct password
+incorrect un incorrect password
+correct un incorrect password
+incorrect un correct password
+correct un blank password
+blank un correct password
+blank un and password
+
